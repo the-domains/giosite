@@ -1,0 +1,28 @@
+name: GioSite
+favicon: null
+layout_spectrum: 0.8639901170972735
+typography_spectrum: 0.60174505203031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.65952127892524
+  lightness: 0.4923306256532669
+  saturation: 0.4354874533601105
+  rhythmicContrast: 0.7700262810103595
+purpose: []
