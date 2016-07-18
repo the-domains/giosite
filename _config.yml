@@ -1,4 +1,4 @@
-name: 'Natsu '
+name: Natsu 夏
 favicon: null
 layout_spectrum: 0.8639901170972735
 typography_spectrum: 0.60174505203031
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#808080'
-    - '#fdfdfd'
-    - '#c2c2c2'
-    - '#ffbf77'
-    - '#252233'
-  brandStrength: 0.6875
+    - '#fcfcfc'
+    - '#ce373e'
+    - '#e6b08e'
+    - '#73616d'
+    - '#000100'
+  brandStrength: 0.5
   lightness: 0.4923306256532669
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
